@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://amare:amare@mycluster.0e2la.gcp.mongodb.net/social-site?retryWrites=true&w=majority",
+    "localMongoUri": "mongodb://localhost/social-site",
+    "jwtSecret": "mySecretToken",
+    "githubClientId": "31c7bc01e00cc5d23c91",
+    "githubClientSecret": "b1cebb6853526114a49bbde7b8a818aa8ca59dca"
+}
